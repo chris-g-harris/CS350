@@ -9,7 +9,7 @@ def main():
     # I have added my name plus a placeholder for your name. Replace the placeholder with your name.
     # The last person to push the file to the repository should ensure the <your name here> placeholder is removed.
 
-    people = ["Christopher Harris", "Evan Minor", "Devin Panikkar", "Lauren Simms", "Fernando Espinoza", "Vandiver David", "Matthew Bradow","Mandeep Singh", 
+    people = ["Christopher Harris", "Evan Minor", "Devin Panikkar", "Lauren Simms", "Fernando Espinoza", "Vandiver David", "Matthew Bradow","Mandeep Singh","Edgar Diaz",
               "<your name here>"]
 
     # don't change anything below this line\n",
