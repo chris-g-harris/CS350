@@ -5,3 +5,4 @@ Please keep this list in alphabetical order by last name.
 - Minor, Evan
 - Simms, Lauren
 - Bradow, Matthew
+- Vandiver, David
