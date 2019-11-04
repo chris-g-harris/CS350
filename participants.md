@@ -7,3 +7,4 @@ Please keep this list in alphabetical order by last name.
 - Simms, Lauren
 - Bradow, Matthew
 - Vandiver, David
+- Mandep Singh
