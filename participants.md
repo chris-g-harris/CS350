@@ -1,5 +1,6 @@
 A list of participants in CSC 195
 Please keep this list in alphabetical order by last name.
+- Carlson, Ashley
 - Diaz, Edgar
 - Harris, Christopher
 - Espinoza, Fernando
@@ -9,3 +10,4 @@ Please keep this list in alphabetical order by last name.
 - Singh, Mandeep
 - Bradow, Matthew
 - Vandiver, David
+
